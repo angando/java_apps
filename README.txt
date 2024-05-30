@@ -1,5 +1,5 @@
 BUILDING JAVA APPLICATIONS WITH DOCKERFILES
-Hi. Thanks for watching this course. Here you can find some notes and resources related to the content shown in this module.
+
 
 
 ==============OFFICIAL DOCUMENTATION==============
